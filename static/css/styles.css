@@ -1,0 +1,16 @@
+.result{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    background-color: var(--c);
+}
+
+.result h2{
+    vertical-align: middle;
+    text-align: center;
+    text-justify: distribute;
+}
+
+button{
+    align-self: center;
+}
